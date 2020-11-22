@@ -1,0 +1,12 @@
+tr {
+    border-bottom: 1px solid #dddddd
+}
+
+tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+tr:last-of-type {
+    border-bottom: 2px solid rgb(0, 194, 16);
+}
+
